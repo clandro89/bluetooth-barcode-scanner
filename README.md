@@ -1,4 +1,4 @@
-# Bluetooth barcode scanner
+# Bluetooth barcode scanner (Raspberry pi)
 
 
 ### Installation
